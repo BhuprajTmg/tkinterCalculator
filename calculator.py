@@ -1,4 +1,4 @@
-#import tkinter form built-in namespace
+#import tkinter from built-in namespace
 from tkinter import *
 root = Tk()
 #Customizing Tkinter Windows
