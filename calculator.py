@@ -7,7 +7,8 @@ root.title("Simple Calculator",)
 root.iconbitmap("icon/calculator.ico")
 #Creating Display Screen of the Calculator
 value = StringVar() #It manage the Value of the widget i.e Entry Value
-screen = Entry(root, width = 40, borderwidth = 20,font =("Arial",10,"bold"),textvariable=value,justify= "right",highlightbackground = "#bfbda5",highlightcolor = "#bfbda5",highlightthickness = 6 )
+screen = Entry(root, width = 40, borderwidth = 20,font =("Arial",10,"bold"),textvariable=value,justify= "right",
+               highlightbackground = "#bfbda5",highlightcolor = "#bfbda5",highlightthickness = 6 )
 screen.grid(row = 0, column = 0 ,columnspan = 16 ,padx = 15,pady = 10,ipadx = 15, ipady =10)
 #Defining Button Function
 current = ""
