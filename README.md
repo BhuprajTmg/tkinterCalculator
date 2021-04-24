@@ -1,7 +1,20 @@
 # tkinterCalculator
 Assignment of Simple Calculator Using Tkinter
-![application](https://user-images.githubusercontent.com/51354885/115832737-f6bf8a00-a432-11eb-811e-cb48912582b4.png)
-![ss1](https://user-images.githubusercontent.com/51354885/115832755-fde69800-a432-11eb-9daf-6e21859f500b.png)
-![ss2](https://user-images.githubusercontent.com/51354885/115832766-00e18880-a433-11eb-9977-5856f5881700.png)
-![ss3](https://user-images.githubusercontent.com/51354885/115832771-017a1f00-a433-11eb-814a-8668a3a83577.png)
 
+<h1><b><i><u>Introduction</u></b></i></h1><br>
+<p>This my Tkinter GUI project of Simple calculator. Basically, Tkinter is the standard GUI library of Python.  Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit. Creating a GUI application using Tkinter is an easy task.<br>
+Here, My Simple Calculator can perform or support basic mathematical operation i.e</p>
+ <ol>
+  <li>Addition</li>
+  <li>Subtraction</li>
+  <li>Multiplication</li>
+  <li>Division</li>
+</ol>
+<br>
+<br>
+<h1><b><i><u>Tools Requirement</u></b></i></h1><br>
+You can directly download tools via the link below:<br>
+<ol>
+ <li><a href = "https://www.python.org/downloads/"> Python:</a> &nbsp; Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation.</li>
+ <li><a href = "https://www.jetbrains.com/pycharm/download/#section=windows"> Pycharm: </a> &nbsp; PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains.
+  
