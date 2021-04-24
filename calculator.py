@@ -1,4 +1,4 @@
-#import tkinter from built-in namespace
+#import tkinter from built-in namespace or library
 from tkinter import *
 root = Tk()
 #Customizing Tkinter Windows
@@ -28,7 +28,7 @@ def button_Equal():
 
 
 
-#Creating Buttons
+#Creating Buttons                       #lamda is an anonymous function with only one expression
 button7 = Button(root, text = "7",borderwidth=5,command = lambda : buttonClick("7"))
 button8 = Button(root, text = "8",borderwidth=5,command = lambda : buttonClick("8"))
 button9 = Button(root, text = "9",borderwidth=5,command = lambda : buttonClick("9"))
@@ -69,5 +69,5 @@ buttonMinus.grid(row = 2,column = 11,ipadx = 20,ipady = 10,pady = 5)
 buttonMul.grid(row = 3,column = 10,ipadx = 20,ipady = 10,pady = 5)
 buttonDiv.grid(row = 3,column = 11,ipadx = 20,ipady = 10,pady = 5)
 buttonEqual.grid(row = 4,column = 10,columnspan = 2,ipadx = 52,ipady = 10,pady = 5)
-#MainLoop to hold the program
+#MainLoop runs the program infinity times
 root.mainloop()
