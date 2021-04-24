@@ -21,7 +21,13 @@ You can directly download tools via the link below:<br>
  <br>
 <h1><b><i>Some ScreenShots of Simple Calculator</h1></b></i><br>
 <h2>Simple Calculator</h2><br>
+
+
+
+
 ![Calculator](https://user-images.githubusercontent.com/51354885/115950266-ee7e5200-a4f9-11eb-84ff-45aa282dd0ae.png)
+
+
 
 <br>
 <h2>Source Code</h2><br>
