@@ -1,5 +1,4 @@
-**tkinterCalculator**
- <h1><b>Assignment of Simple Calculator Using Tkinter<h1></b>
+ <h1><b>Assignment of Simple Calculator Using Tkinter GUI<h1></b>
 
 <h1><b><i><u>Introduction</u></b></i></h1><br>
 <p>This my Tkinter GUI project of Simple calculator. Basically, Tkinter is the standard GUI library of Python.  Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit. Creating a GUI application using Tkinter is an easy task.<br>
