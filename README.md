@@ -20,4 +20,4 @@ You can directly download tools via the link below:<br>
  </ol>
  
 <h1>Some Screen Shots of Simple Calculator</h1>
-<frame><img src="C:\Users\Hacker'\PycharmProjects\simpleCalculator\ScreenShots\Calculator.png" style = "width : 500px; height:500px"> </frame>
+<img src="C:\Users\Hacker'\PycharmProjects\simpleCalculator\ScreenShots\Calculator.png" style = "width : 500px; height:500px">
