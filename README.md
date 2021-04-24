@@ -16,5 +16,8 @@ Here, My Simple Calculator can perform or support basic mathematical operation i
 You can directly download tools via the link below:<br>
 <ol>
  <li><a href = "https://www.python.org/downloads/"> Python:</a> &nbsp; Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation.</li>
- <li><a href = "https://www.jetbrains.com/pycharm/download/#section=windows"> Pycharm: </a> &nbsp; PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains.
-  
+ <li><a href = "https://www.jetbrains.com/pycharm/download/#section=windows"> Pycharm: </a> &nbsp; PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains.</li>
+ </ol>
+ 
+<h1>Some Screen Shots of Simple Calculator</h1>
+<frame><img src="C:\Users\Hacker'\PycharmProjects\simpleCalculator\ScreenShots\Calculator.png" style = "width : 500px; height:500px"> </frame>
