@@ -19,9 +19,8 @@ You can directly download tools via the link below:<br>
  <li><a href = "https://www.jetbrains.com/pycharm/download/#section=windows"> Pycharm: </a> &nbsp; PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains.</li>
  </ol>
  <br>
-<h1><b><i>Some ScreenShots of Simple Calculator</h1></b></i><br>
+<h1><b><i>Some ScreenShots of Simple Calculator</h1></b></i>
 <h2>Simple Calculator</h2><br>
-
 
 
 
