@@ -1,5 +1,5 @@
 **tkinterCalculator**
- <h1><b>Assignment of Simple Calculator Using Tkinter<h1></b></title>
+ <h1><b>Assignment of Simple Calculator Using Tkinter<h1></b>
 
 <h1><b><i><u>Introduction</u></b></i></h1><br>
 <p>This my Tkinter GUI project of Simple calculator. Basically, Tkinter is the standard GUI library of Python.  Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit. Creating a GUI application using Tkinter is an easy task.<br>
@@ -23,11 +23,20 @@ You can directly download tools via the link below:<br>
 <h2>Simple Calculator</h2><br>
 
 
-
 ![Calculator](https://user-images.githubusercontent.com/51354885/115950266-ee7e5200-a4f9-11eb-84ff-45aa282dd0ae.png)
 
 
 
 <br>
 <h2>Source Code</h2><br>
+
+
+![screenshot1](https://user-images.githubusercontent.com/51354885/115950324-44eb9080-a4fa-11eb-8d03-3ab47b00df42.png)
+
+
+![screenshot2](https://user-images.githubusercontent.com/51354885/115950347-6482b900-a4fa-11eb-9f0c-3777c309ffed.png)
+
+
+![screenshot3](https://user-images.githubusercontent.com/51354885/115950351-69e00380-a4fa-11eb-9742-e166305ef5ad.png)
+
 
