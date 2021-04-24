@@ -18,12 +18,12 @@ You can directly download tools via the link below:<br>
  <li><a href = "https://www.python.org/downloads/"> Python:</a> &nbsp; Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation.</li>
  <li><a href = "https://www.jetbrains.com/pycharm/download/#section=windows"> Pycharm: </a> &nbsp; PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains.</li>
  </ol>
- 
+ <br>
 <h1><b><i>Some ScreenShots of Simple Calculator</h1></b></i><br>
-<h2>Simple Calculator</h2>
+<h2>Simple Calculator</h2><br>
 ![Calculator](https://user-images.githubusercontent.com/51354885/115950123-1f11bc00-a4f9-11eb-93ca-75ab835c3b1e.png)
 <br>
-<h2>Source Code</h2>
-![screenshot1](https://user-images.githubusercontent.com/51354885/115950168-6b5cfc00-a4f9-11eb-98ef-e686e1112291.png)
-![screenshot2](https://user-images.githubusercontent.com/51354885/115950169-6ef08300-a4f9-11eb-9b4f-4354bbb558fe.png)
-![screenshot3](https://user-images.githubusercontent.com/51354885/115950171-7152dd00-a4f9-11eb-8419-fae71aa92463.png)
+<h2>Source Code</h2><br>
+![screenshot1](https://user-images.githubusercontent.com/51354885/115950168-6b5cfc00-a4f9-11eb-98ef-e686e1112291.png)<br>
+![screenshot2](https://user-images.githubusercontent.com/51354885/115950169-6ef08300-a4f9-11eb-9b4f-4354bbb558fe.png)<br>
+![screenshot3](https://user-images.githubusercontent.com/51354885/115950171-7152dd00-a4f9-11eb-8419-fae71aa92463.png)<br>
